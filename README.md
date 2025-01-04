@@ -43,6 +43,7 @@ Experimenting with **high-performance computing** and machine learning optimizat
 - 🌌 **Kernels**: Exploring their role in machine learning and system development.
 - 🛠️ **GitHub Mastery**: Improving project management and collaboration skills.
 - 🧠 **AI/ML Techniques**: Expanding my knowledge of predictive models and optimization.
+- **AWS**: Exploring their services and finding ways to implement it.
 
 ---
 

@@ -7,7 +7,6 @@ I'm a Computer Science student passionate about **machine learning**, **GPU soft
 - 🎓 Pursuing a degree in **Computer Science**.
 - 🔭 Working on my first major project: **Predictive Student Performance with Machine Learning**.
 - 🧠 Currently learning about **kernels** and building a structured learning path to master related topics.
-
 ---
 
 ## **What I’m Working On**
@@ -32,20 +31,9 @@ Experimenting with **high-performance computing** and machine learning optimizat
 
 ### **Technologies & Tools**
 - Machine Learning: scikit-learn, TensorFlow
-- Data Analysis: pandas, NumPy
-- GPU Development: CUDA, OpenCL
+- Data Analysis: pandas, NumPyL
 - Git & GitHub: Version Control
 - IDEs: VS Code, Jupyter Notebooks
-
----
-
-## **What I’m Learning**
-- 🌌 **Kernels**: Exploring their role in machine learning and system development.
-- 🛠️ **GitHub Mastery**: Improving project management and collaboration skills.
-- 🧠 **AI/ML Techniques**: Expanding my knowledge of predictive models and optimization.
-- **AWS**: Exploring their services and finding ways to implement it.
-
----
 
 ## **Let’s Connect!**
 🌐 [chazwyllie.com](http://chazwyllie.com) – My portfolio and blog.  

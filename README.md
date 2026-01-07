@@ -15,6 +15,6 @@ I'm a Computer Science student passionate about **machine learning**, **data sci
 - IDEs: VS Code, Jupyter Notebooks
 
 ## **Let’s Connect!**
-🌐 [chazwyllie.com](http://chazwyllie.com) – My portfolio and blog.  
-📧 Reach me at chazwyllie@gmail.com   
+[chazwyllie.com](http://chazwyllie.com) – My portfolio and blog.  
+Reach me at chazwyllie@gmail.com   
 

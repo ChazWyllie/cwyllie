@@ -7,6 +7,7 @@ I'm a Computer Science student passionate about **machine learning**, **data sci
 - Python 
 - C++
 - JavaScript
+- Java
 
 ### **Technologies & Tools**
 - Machine Learning: scikit-learn, TensorFlow
@@ -15,6 +16,6 @@ I'm a Computer Science student passionate about **machine learning**, **data sci
 - IDEs: VS Code, Jupyter Notebooks
 
 ## **Let’s Connect!**
-[chazwyllie.com](http://chazwyllie.com) – My portfolio and blog.  
+[chazwyllie.com](http://chazwyllie.com) – My portfolio 
 Reach me at chazwyllie@gmail.com   
 
